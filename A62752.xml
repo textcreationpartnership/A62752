@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Kings most excellent Majesty. The due account, and humble petition of the ministers of the Gospel, lately commissioned for the review &amp; alteration of the liturgy</title>
+            <title>Due account and humble petition of the ministers of the Gospel, lately commissioned for the review and alteration of the liturgy.</title>
+            <author>Commission for the Review and Alteration of the Book of Common Prayer.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62752</idno>
+            <idno type="STC">Wing T1498A</idno>
+            <idno type="STC">ESTC R220130</idno>
+            <idno type="EEBO-CITATION">99831558</idno>
+            <idno type="PROQUEST">99831558</idno>
+            <idno type="VID">36021</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62752)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36021)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2046:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Kings most excellent Majesty. The due account, and humble petition of the ministers of the Gospel, lately commissioned for the review &amp; alteration of the liturgy</title>
+                  <title>Due account and humble petition of the ministers of the Gospel, lately commissioned for the review and alteration of the liturgy.</title>
+                  <author>Commission for the Review and Alteration of the Book of Common Prayer.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed anno Domini, 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In this edition title page line 3 reads "most excellent"; line 6 reads "due account, and humble petition".</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Liturgy --  Early works to 1800.</term>
+               <term>Church of England. --  Book of common prayer --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36021:1"/>
+            <pb facs="tcp:36021:1"/>
+            <p>TO THE KINGS MOST EXCELLENT MAJESTY.</p>
+            <p>THE Due Account, and Humble Petition OF THE MINISTERS OF THE GOSPEL, Lately COMMISSIONED for the REVIEW &amp; ALTERATION OF THE LITURGY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Anno Domini,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:36021:2"/>
+            <pb n="1" facs="tcp:36021:2"/>
+            <head>TO THE KINGS Moſt Excellent MAJESTY.</head>
+            <opener>
+               <salute>May it pleaſe Your Majeſty,</salute>
+            </opener>
+            <p>WHen the diſtempered Nation, wearied with its own Contentions and Diviſions, did groan for Unity and Peace, (the wonderfull Providence of the moſt Righteous God appearing for the removal of Impediments) their eyes were upon your Majeſty, as the perſon born to be (under God) the Center of their Concord; and taught by Affliction to break the bonds of the Afflicted, and by experience of the ſad effects of mens uncharitableneſs, and paſſions, to reſtrain all from violence and extremity, and keep up moderation and mediocrity, the Oil of Charity and Peace: And when your ſubjects deſires were accompliſhed in your Majeſties peaceable poſſeſſion of the Throne, it was the joy and encouragement of the Sober and Religious, that you began the exerciſe of your Government, with a Proclamation full of Chriſtian Zeal againſt Debauche<g ref="char:EOLhyphen"/>ry and Profaneneſs, declaring alſo your diſlike of [thoſe who under pretence of Affection to your Majeſty, and your Service, aſſume to themſelves the liberty of reviling, threat<g ref="char:EOLhyphen"/>ning,
+<pb n="2" facs="tcp:36021:3"/>and reproaching others, to prevent the Reconciliation and Union of hearts and affections, which can only (with Gods bleſſing) make us rejoyce in each other] Our comforts alſo were carried on by Your Majeſties early, and ready enter<g ref="char:EOLhyphen"/>tainment of Motions for accommodation in thoſe points of Diſcipline and Worſhip, in which we diſagreed, and Your profeſſed Reſolutions to draw us together by mutual ap<g ref="char:EOLhyphen"/>proaches, and publiſhing Your healing Declaration, which was received with thanks of Your Houſe of Commons, and the applauſe of the people, and the ſpecial joy of thoſe that longed for Concord and Tranquillity in the Church. In which Your Majeſty declared ſo much ſatisfaction in the foundations of Agreement already laid, for that You [ſhould think Your ſelf very unfortunate, and ſuſpect that You are defective in the Adminiſtration of Government, if any ſuperſtructures ſhould ſlack thoſe foundations, and contract or leſſen the bleſſed gift of Charity, which is a vital part of Chriſtian Religion.</p>
+            <p>And as in the ſaid gracious Declaration Your Majeſty reſol<g ref="char:EOLhyphen"/>ved to [appoint an equal number of Learned Divines of both Perſwaſions, to review the Liturgy, and make ſuch Altera<g ref="char:EOLhyphen"/>tions as ſhall be thought moſt neceſſary, and ſome Additional Forms of Scripture phraſe, as neer as may be, ſuited unto the nature of ſeveral parts of Worſhip, and that it be left to the Miniſters choice to uſe one, or other, at his diſcretion: So in ac<g ref="char:EOLhyphen"/>compliſhment thereof, Your Majeſty among others, directed Your Commiſſion to be for the review of [the ſeveral Directions, Rules, and Forms of Prayer, and things in the ſaid Book of Com<g ref="char:EOLhyphen"/>mon-Prayer contained] And (if occaſion be) to make ſuch ſea<g ref="char:EOLhyphen"/>ſonable and neceſſary Alterations, Corrections, and Amend<g ref="char:EOLhyphen"/>ments thereof, as by and between us ſhall be agreed upon to be needful, or expedient for the giving a ſatisfaction to tender conſciences, and reſtoring and continuance of Peace and Unity in the Church under Your Protection and Government; and what we agree upon as needful or expedient to be done for the Altering, Diminiſhing, or Enlarging the ſaid Book of Common-Prayer, forthwith to certifie and preſent it in Writing to Your Majeſty.</p>
+            <p>In Obedience to this Your Majeſties Commiſſion, wee did
+<pb n="3" facs="tcp:36021:3"/>with the Right Reverend Biſhops, who required of us that before any perſonal debate, we ſhould bring in writing all our Exceptions againſt the book of Common-Prayer, and all the Additional Forms which we deſired; Both which wee performed, and received from them an Anſwer to the firſt, and returned them our full Reply; The laſt week of our time being deſigned to perſonal conference, was, at the will of the Right Reverend Biſhops, ſpent in a particular diſpute with three of each part, about the ſinfulneſs of one of the Injuncti<g ref="char:EOLhyphen"/>ons, from which we deſired to bee free, and in ſome other Conference on the By. And though the account which wee are forced to give to your Majeſty of the iſſue of our Conſul<g ref="char:EOLhyphen"/>tations, is, that no Agreements are ſubſcribed by us to be of<g ref="char:EOLhyphen"/>fered to your Majeſty according to your expectation; and though it be none of our intent to caſt the leaſt unmeet re<g ref="char:EOLhyphen"/>flection upon the Right Reverend Biſhops, and Learned Bre<g ref="char:EOLhyphen"/>thren, who think not meet to yeild to any conſiderable Altera<g ref="char:EOLhyphen"/>tions, to the ends expreſſed in your Majeſties Commiſſion; yet we muſt ſay, that it is ſome quiet to our minds, that we have not been guilty of your Majeſties, and your Subjects diſappoint<g ref="char:EOLhyphen"/>ments, and that we account not your Majeſties Gracious Commiſſion, and our labour loſt, having peace of conſcience in the diſcharge of our duty to God and you, that wee have been the ſeekers and followers of Peace, and have earneſtly Pleaded, and humbly petitioned for it. And we humbly beſeech your Majeſty, to believe that we own no Principles of Faction or Diſobedience, nor patronize the Errours or ob<g ref="char:EOLhyphen"/>ſtinacy of any.</p>
+            <p>It's granted us by all, that nothing ſhould bee command<g ref="char:EOLhyphen"/>ed us by man, which is contrary to the word of God: that if it bee, and wee know it, we are bound not to perform it, God being the abſolute Univerſal Soveraign; That wee muſt uſe all juſt means to diſcern the will of God, and whether the commands of men be contrary to it; that if the command bee ſinful, and any through the neglect of ſufficient ſearch, ſhall judge it lawful; his culpable errour excuſeth not his do<g ref="char:EOLhyphen"/>ing it, from being ſin; and therefore as a reaſonable crea<g ref="char:EOLhyphen"/>ture muſt needs have a judgement of diſcerning, that he may
+<pb n="4" facs="tcp:36021:4"/>rationally obey it; ſo is hee with the greateſt care and dili<g ref="char:EOLhyphen"/>gence to excerciſe it in the greateſt things, even in the obeying of God, and ſaving of his Soul; and that were a ſtrong pro<g ref="char:EOLhyphen"/>bability of great ſin and danger lyeth before us, we muſt not raſhly run on without ſearch, and that to go on againſt Con<g ref="char:EOLhyphen"/>ſcience, even where it is miſtaken, is ſin and danger to him that erreth. And on the other ſide, we are remembred, that in things no way againſt the Laws of God, the Commands of our Governours muſt be obeyed; but if they command what God forbids, we muſt patiently ſubmit to ſuffering, and every ſoul muſt be ſubject unto the higher Powers, for con<g ref="char:EOLhyphen"/>ſcience ſake, and not reſiſt: The publick Judgement, civil, or eccleſiaſtical, belongeth onely to publick perſons, and not to any private man; that no man muſt be cauſeleſly, and pragmatically inquiſitive into the Reaſons of his Superiours commands; nor by pride and ſelf-conceitedneſs, exalt his own underſtanding above it's worth and office, but all to be modeſtly, and humbly ſelf-ſuſpitious; that none muſt erroni<g ref="char:EOLhyphen"/>ouſly pretend to Gods Law, againſt the juſt command of his Superiours, nor pretend the doing of his duty to be ſin; that hee who ſuſpecteth his Superiours commands to bee againſt Gods Laws, muſt uſe all means for full Information, before hee ſettle in a courſe of diſobeying them; and that hee who indeed diſcovereth any thing commanded to be ſin, though hee muſt not do it, muſt manage his opinion with very great tenderneſs and care of the publick Peace, and the honours of his Governours: Theſe are our Principles: If we are other<g ref="char:EOLhyphen"/>wiſe repreſented to your Majeſty, we are miſ-repreſented; If we are accuſed of contradicting them, we humbly crave that we may not be condemned, till wee bee heard.</p>
+            <p>It is the deſire of our Souls to contribute our parts and inter<g ref="char:EOLhyphen"/>eſts to the utmoſt, for the promoting of holineſs, charity, unity, and obedience to Rulers in all lawful things: But if wee ſhould ſin againſt God, becauſe we are commanded, who ſhall anſwer for us, or ſave us from his Juſtice? And wee humbly crave, that it may bee no juſt <hi>Gravamen</hi> of our diſſent, that thereby we ſuppoſe Superiours may erre, ſeeing it is but ſuppoſing them to bee men not yet in Heaven; and
+<pb n="5" facs="tcp:36021:4"/>this may bee reputed to every one that differeth in Opinion from another. And wee beſeech Your Majeſty to beleeve, that as wee ſeek no greater matters in the World than daily Bread, with liberty to Preach the Goſpel, and Worſhip God according to his Word, and the practiſe of the Primitive Churches; ſo wee hope it is not through P<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lanimity, and over-much tenderneſſe of ſuffering, that wee have pleaded ſo much for the avoiding of ſuffering, to our ſelves or others. May none of our ſufferings hinder the proſperity of the Church, and the good of Souls, and wee have enough. And wee ſup<g ref="char:EOLhyphen"/>poſe thoſe that think the perſons inconſiderable in Number and Quality for whom wee plead, will not themſelves be<g ref="char:EOLhyphen"/>leeve that we have done this for popular applauſe: this were not ſo much to ſeek the reward of Hypocrites, as to play the game of Fools; ſeeing the applauſe of inconſiderable men can bee but inconſiderable, and wee know our ſelves that we are like thus to offend thoſe that are not inconſiderable; the Lord that ſearcheth hearts, doth know that it is not ſo much the avoiding of ſuffering to our ſelves, or any particular perſon, that is the end of our endeavours, though this were no Ambi<g ref="char:EOLhyphen"/>tious end) as the peace and welfare of the Church and King<g ref="char:EOLhyphen"/>dome, under Your Majeſties Government. We know, that ſuppoſing them who are for the Ceremonies, to be as Pious and Charitable as the reſt, it cannot ſo much offend them that another may forbear them, as it muſt offend another to be for<g ref="char:EOLhyphen"/>ced to uſe them; and we know that conſcientious men will not conſent to the practiſing of things in their judgement un<g ref="char:EOLhyphen"/>lawfull, when thoſe may yeild that count the matter indiffe<g ref="char:EOLhyphen"/>rent. And for the management of this Treaty, it being agreed at our firſt meeting, that nothing be reported as the words or ſenſe of either part, but what is delivered by them in writing; We humbly crave, that Your Majeſty receive no more as ours, and that what is charged on any particular perſon, he may be anſwerable for himſelf; and though the Reverend Biſhops have not had time to conſider our Additions to the Liturgy, and of our Reply, that yet it may be conſidered before a Determina<g ref="char:EOLhyphen"/>tion be made. And though we ſeem to have laboured in vain, we ſhall yet lay this work of Reconciliation and Peace at Your
+<pb n="6" facs="tcp:36021:5"/>Majeſties feet, beſeeching you to proſper ſuch a bleſſed Reſo<g ref="char:EOLhyphen"/>lution, till it attain ſucceſſe: We muſt needs beleeve, that when Your Majeſty took our Conſent to a Liturgy to be a foundation that would infer our Concord, You meant not that we ſhould have no Concord, but by conſenting to this Liturgy, without any conſiderable Alterations.</p>
+            <p>And when You comforted us with Your Reſolutions to draw us together, by yeilding on both ſides in what we could, You meant not that wee ſhould be the boat to lay the banks that ſhould not ſtir; and when Your Majeſty commanded us by Letters Pattents to meet about ſuch Alterations as are need<g ref="char:EOLhyphen"/>full or expedient for giving ſatisfaction to tender Conſciences, and the reſtoring and continuing of Peace and Unity, wee reſt aſſured, that it was not Your ſenſe that thoſe tender Con<g ref="char:EOLhyphen"/>ſciences were to be forced to practiſe all which they judged unlawful, and not ſo much as a Ceremony abated them, or that our Treaty was only to convert either party to the Opi<g ref="char:EOLhyphen"/>nion of another, and that all our hopes of Concord and Liber<g ref="char:EOLhyphen"/>ty conſiſted only in diſputing the Biſhops into Non-conformity, or coming in every Ceremony to their minds.</p>
+            <p>Finally (for Your Majeſty, under God, is the protection where<g ref="char:EOLhyphen"/>to Your people flye, and as the ſame neceſſity ſtill remains which drew forth Your Gracious Declaration) wee moſt Humbly and Earneſtly beſeech Your Majeſty, that the benefit of the ſaid Declaration may be continued to Your people, and in particular, that none be puniſhed or troubled for not uſing the Common-Prayer, till it be effectually reformed, and the Addition made, as there expreſt. We crave Your Majeſties Pardon for the tediouſneſſe of this Addreſſe, and ſhall wait in hope, that ſo great a Calamity of Your people as will follow the loſs of ſo many able faithful Miniſters, as the rigorous Im<g ref="char:EOLhyphen"/>poſition would caſt out, ſhall never be recorded in the Hiſtory of Your Reign, but that theſe impediments of Concord being forborn, Your Kingdome may flouriſh in Piety and Peace, that this may be the ſignal honour of Your happy Reign, and Your joy in the day of Your account, which is the prayer of</p>
+            <closer>
+               <signed>Your Majesties Faithful and Obedient Subjects.</signed>
+            </closer>
+            <pb facs="tcp:36021:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
